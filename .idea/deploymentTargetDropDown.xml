@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="addBreakfast_appearsUnderBreakfast_nutrientsProperlyCalculated()">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="core">
+        <State />
+      </entry>
+      <entry key="core-ui">
+        <State />
+      </entry>
+      <entry key="onboarding.onboarding_domain">
+        <State />
+      </entry>
+      <entry key="onboarding.onboarding_presentation">
+        <State />
+      </entry>
+      <entry key="tracker.tracker_data">
+        <State />
+      </entry>
+      <entry key="tracker.tracker_domain">
+        <State />
+      </entry>
+      <entry key="tracker.tracker_presentation">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
